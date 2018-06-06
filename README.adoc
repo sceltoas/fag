@@ -1,0 +1,56 @@
+= Fag
+
+Fag i Scelto
+
+:toc:
+
+= Bakgrunn
+
+På vårt første internmøte var det enighet om at man ønsket mer fokus på fag
+og følge med på det som beveger seg på teknologifronten.
+Vi ønsker å se hva kunder etterspør og hva som det kommer forespørsel på, men det dekker bare de store trendene,
+og ligger som regel litt i etterkant av det som beveger seg.
+
+Det er nok mer produktivt å være i forkant, og følge med på teknologiene som
+virker interresant å lære mer om, prøve dem ut og se om det er noe tess, og at det er noe vi ønsker å jobbe med ute hos kunder.
+
+Det praktiske rundt hvordan vi jobber med fag er opp til oss å finne ut.
+Foreløpig har det vært forslag om fagkvelder, halve fagdager, ala utvidet lunsj.
+Mulighet for å jobbe sammen med noe via remote på kveldene. Dette repoet er tenkt som
+en plass vi kan konkretisere og diskutere litt rundt dette. Vi kan f.eks bruke
+issues til å diskutere fremgangsmåte osv, og ha underkataloger for de forskjellige teknologiene.
+
+Under har jeg laget en tabell med teknologier som vi øsnker å jobbe med, og en liste av ideer
+som vi kan utvikle på mens vi utforsker ny teknologi. Her er det fint hvis man legger til seg selv og evt nye teknologier etter behov.
+
+
+= Teknologier Vi ønsker å jobbe med
+
+Legg til deg selv der du ønsker å være med. Legg gjerne til teknologi som er spennende hvis det mangler.
+
+.Teknologi/Scechnologi
+|===
+|Navn på teknologi |Interresenter |Status
+
+|Kotlin
+|@kenglxn,
+|
+
+|Elixir
+|@kenglxn
+|
+
+|Elm
+|@kenglxn
+|
+
+|===
+
+= Konkrete ideer/oppgaver som vi kan jobbe med
+
+Liste av ideer vi kan bruke når vi utforkser ny teknologi. Typisk en app eller lignende. Trenger ikke være fancy,
+Bare slik at vi slipper å lage TODO eller Hello world 100 ganger.
+
+* Teknologiradar
+** Crowd sourced teknologiradar vha tinder like app.
+** E.g. benytte CQRS/Event Sourcing med AWS lambda og Graphql samt Service Worker
