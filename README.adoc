@@ -44,6 +44,10 @@ Legg til deg selv der du ønsker å være med. Legg gjerne til teknologi som er 
 |@kenglxn
 |
 
+|AppSync
+|@kenglxn
+|
+
 |===
 
 = Konkrete ideer/oppgaver som vi kan jobbe med
@@ -53,4 +57,4 @@ Bare slik at vi slipper å lage TODO eller Hello world 100 ganger.
 
 * Teknologiradar
 ** Crowd sourced teknologiradar vha tinder like app.
-** E.g. benytte CQRS/Event Sourcing med AWS lambda og Graphql samt Service Worker
+** E.g. benytte CQRS/Event Sourcing med Graphql samt Service Worker via AppSync (https://aws.amazon.com/appsync/)
