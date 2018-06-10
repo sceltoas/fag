@@ -48,6 +48,10 @@ Legg til deg selv der du ønsker å være med. Legg gjerne til teknologi som er 
 |@kenglxn
 |
 
+|Go
+|@kenglxn
+|
+
 |===
 
 = Konkrete ideer/oppgaver som vi kan jobbe med
