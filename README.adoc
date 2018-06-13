@@ -62,3 +62,4 @@ Bare slik at vi slipper å lage TODO eller Hello world 100 ganger.
 * Teknologiradar
 ** Crowd sourced teknologiradar vha tinder like app.
 ** E.g. benytte CQRS/Event Sourcing med Graphql samt Service Worker via AppSync (https://aws.amazon.com/appsync/)
+* Robots game
