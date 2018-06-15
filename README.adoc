@@ -33,7 +33,7 @@ Legg til deg selv der du ønsker å være med. Legg gjerne til teknologi som er 
 |Navn på teknologi |Interresenter |Status
 
 |Kotlin
-|@kenglxn, @ivarni
+|@kenglxn, @ivarni, @eriksalhus
 |
 
 |Elixir
@@ -41,7 +41,7 @@ Legg til deg selv der du ønsker å være med. Legg gjerne til teknologi som er 
 |
 
 |Elm
-|@kenglxn, @ivarni
+|@kenglxn, @ivarni, @eriksalhus
 |
 
 |AppSync
